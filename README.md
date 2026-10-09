@@ -34,6 +34,6 @@ Output
 
 The project produces a cleaned dataset named `cleaned_cafe_sales.csv`, along with data-quality reports and an analysis of the changes made during preprocessing.
 
-## Objective
+Objective
 
 To demonstrate systematic data-cleaning techniques and develop a reliable dataset suitable for further analysis and data-driven decision-making.
